@@ -1,0 +1,21 @@
+#madlib
+
+name = input("Type your name: ")
+favourite = input("Type your favourite sport: ")
+animal = input("Type your favourite animal: ")
+atype = input("Is it a land, water, or sky animal?: ")
+verb = input("Type in a silly verb here: ")
+noun = input("Type in a noun here: ")
+lfavourite = input("Type your least favourite thing to do in your free time: ")
+food = input("Type in your favourite food: ")
+lfood = input("Type your least favourite food: ")
+mark = int(input("Type your desired mark in this class: "))
+
+print ("One day",name, "was walking down the street on a dark, snowy day. He was looking forward to going home and playing",favourite,)
+print ("He saw, however, a" ,animal, "walking down the street. He couldn't believe his eyes! How can there be a",atype, "animal here, in the middle of nowhere?")
+print ("Thinking about what he just saw, he went home, trying to",verb, "his mind around the idea of a",animal,"right in front of his eyes!")
+print ("He couldn't get his mind off of the",animal," and so he went back to see it. It had a",food,"in it's hand! It started",verb,"-ing around without noticing,",name,"crushed the",food,"with its paws on the",noun,"and didn't even seem to notice!")
+print ("The",animal,"saw a",lfood,"lying on the ground, and",verb,"-ed towards it.")
+print ("Started",lfavourite,"-ing around randomly, with no regard to",name,)
+print ("After it calmed down, it look straight at",name,"and said the four words",name,"never hoped to hear.")
+print ("You have a",mark/2,"in Computer Science.")
